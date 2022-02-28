@@ -4,7 +4,7 @@
 
 
 double pown(double value, uint16_t n) {
-
+  jvjhv
 }
 
 uint64_t fact(uint16_t n) {
